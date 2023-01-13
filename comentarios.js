@@ -6,4 +6,3 @@
 */
 
 console.log("Hello, World!")
-console.log("Bora Vasco!")
